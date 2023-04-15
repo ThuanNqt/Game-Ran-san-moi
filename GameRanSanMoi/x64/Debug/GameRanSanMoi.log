@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\adoan\OneDrive\OOP\Game Unity\Game\GameRanSanMoi\ThuVienCuaThuanCPP.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\adoan\OneDrive\OOP\Game Unity\Game\GameRanSanMoi\ThuVienCuaThuanCPP.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\adoan\OneDrive\OOP\Game Unity\Game\GameRanSanMoi\Source.cpp(185,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  GameRanSanMoi.vcxproj -> C:\Users\adoan\OneDrive\OOP\Game Unity\Game\x64\Debug\GameRanSanMoi.exe
